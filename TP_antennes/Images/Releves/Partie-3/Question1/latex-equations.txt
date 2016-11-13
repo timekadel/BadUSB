@@ -1,0 +1,4 @@
+$W=L=\frac{V_{0}}{2\times f \times\sqrt{\epsilon_{r}}}=\frac{3.10^{8}}{2\times f \times\sqrt{4.6}}=29.14\\
+H=\frac{0.822\times L}{2}=\frac{0.822\times29.14}{2}=11.97\\
+Y=\frac{W}{5}=5.828\\
+X=Z=\frac{2\times W}{5}=11.656$

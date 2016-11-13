@@ -1,0 +1,3 @@
+BW=3.77\times\frac{\epsil$on_{r}-1}{\epsilon_{r}^{2}}\times\frac{W}{L}\times\frac{t}{\lambda}\\
+BW=3.77\times\frac{4.6-1}{4.6^{2}}\times\frac{29.14}{29.14}\times\frac{1}{3\times10^{8}}\\
+avec\ \ \ \frac{t}{\lambda} = \frac{1}{V_{0}}$
